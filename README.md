@@ -1,4 +1,4 @@
-# Tekken-5-FHD-texture-pack
+# Tekken-DR-FHD-texture-pack
 Tekken: Dark Ressurection FHD texture project by IxNineHash
 
 (discord: IxNineHash#9785)
